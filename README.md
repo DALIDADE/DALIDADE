@@ -3,13 +3,12 @@
   </div>
   
   
-  
-
-
+ 
 - 👋 Hi, I’m @DALIDADE
 - 💻 I'm Backend and API devoloper
 - I'm using more language
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"><img src="https://camo.githubusercontent.com/537f66454b766b0…c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" width="80" height="60">
+- <img src="" width="40" height="40">
 - 👀 I’m interested in Gym
 - 🌱 I’m currently learning more language and programming
 - 📫 How to reach me ...⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
