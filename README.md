@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=TimesNewRoman&color=%2831C2FF&size=40&center=true&vCenter=true&height=60&width=600&lines=Hi👋+I'm+DALIDADE;I'm+Backend+and+API+developer!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=TimesNewRoman&color=%2831C2FF&size=40&center=true&vCenter=true&height=60&width=600&lines=Hi👋+I'm+DALIDADE;I'I'm+Backend+and+API+developer!" alt="Title"></img>
   
   
   
