@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=2C9CFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+👋+I'm+Suba;Backend+%26+API+Developer;Python+%7C+Django+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=2C9CFF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+👋+I'm+Suwhan;Backend+%7C+API+%7C+Flutter+Developer;Python+%7C+Django+%7C+Flutter+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -7,6 +7,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -16,11 +18,12 @@
 
 ## 🚀 About Me
 
-- 👋 Hi, I’m **Suba** (@DALIDADE)
-- 💻 I'm a **Backend & API Developer**
-- 🐍 I specialize in **Python** and **Django**
-- 🔧 I build scalable REST APIs and backend systems
-- 💪 Passionate about coding, gym & self-improvement
+- 👋 Hi, I'm **Suwhan Atagulyyew** (@DALIDADE)
+- 💻 I'm a **Backend & API Developer** | **Flutter Developer**
+- 🐍 I specialize in **Python**, **Django** & **Flutter**
+- 📱 I build scalable REST APIs and cross-platform mobile apps
+- 🔧 Tech stack: **Django REST Framework**, **Flutter**, **PostgreSQL**, **Dart**
+- 💪 Passionate about coding, gym & continuous learning
 
 <br/>
 
@@ -29,17 +32,47 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" width="60" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="45" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="45" height="50" />
 </div>
+
+<br/>
+
+## 📊 My Expertise
+
+| Backend Development | Mobile Development |
+|---------------------|--------------------|
+| Python | Flutter |
+| Django | Dart |
+| Django REST Framework | Cross-platform Apps |
+| PostgreSQL | REST API Integration |
+| Authentication & Authorization | UI/UX Implementation |
 
 <br/>
 
 ## 🌱 Currently Learning
 
-- Advanced Django & Django REST Framework
+- Advanced Flutter & State Management (Provider, Bloc)
 - Microservices Architecture
+- FastAPI
 - Go Programming Language
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DALIDADE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DALIDADE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=DALIDADE&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+</div>
 
 <br/>
 
@@ -60,20 +93,15 @@
 <br/>
 
 <div align="center">
-  <h3>📧 atagulyyew_03</h3>
-  <h3>✉️ suwhanatagulyyew133@gmail.com</h3>
+  <h3>📱 Instagram: @atagulyyew_03</h3>
+  <h3>✉️ Email: suwhanatagulyyew133@gmail.com</h3>
 </div>
 
 <br/>
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DALIDADE&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DALIDADE&layout=compact&theme=tokyonight" />
-  </div>
-</details>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DALIDADE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
