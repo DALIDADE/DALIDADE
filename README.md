@@ -4,7 +4,7 @@
   
   
  
-- 👋 Hi, I’m @DALIDADE
+- 👋 Hi, I’m @Suba...
 - 💻 I'm Backend and API devoloper
 - I'm using more language
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" width="80" height="60">
