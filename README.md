@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=2C9CFF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+👋+I'm+Suwhan;Backend+%7C+API+%7C+Flutter+Developer;Python+%7C+Django+%7C+Flutter+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=2C9CFF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+👋+I'm+Suwhan;Backend+%7C+API+%7C+Flutter+Developer;AI+%7C+Machine+Learning+Enthusiast;Python+%7C+Django+%7C+Flutter" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 <br/>
@@ -21,11 +23,12 @@
 ## 🚀 About Me
 
 - 👋 Hi, I'm **Suwhan Atagulyyew** (@DALIDADE)
-- 💻 I'm a **Backend & API Developer** | **Flutter Developer**
-- 🐍 I specialize in **Python**, **Django** & **Flutter**
-- 📱 I build scalable REST APIs and cross-platform mobile apps
-- 🔧 Tech stack: **Django REST Framework**, **Flutter**, **PostgreSQL**, **Dart**
-- 💪 Passionate about coding, gym & continuous learning
+- 💻 I'm a **Backend & API Developer** | **Flutter Developer** | **AI Enthusiast**
+- 🤖 I work with **AI**, **Machine Learning** & **Large Language Models**
+- 🐍 I specialize in **Python**, **Django**, **Flutter** & **AI Technologies**
+- 📱 I build scalable REST APIs, cross-platform mobile apps, and AI-powered solutions
+- 🔧 Tech stack: **Django REST Framework**, **Flutter**, **PostgreSQL**, **Dart**, **AI/ML**
+- 💪 Passionate about coding, AI, gym & continuous learning
 
 <br/>
 
@@ -40,19 +43,32 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="45" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="45" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/OpenAI_Logo.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" />
 </div>
 
 <br/>
 
 ## 📊 My Expertise
 
-| Backend Development | Mobile Development | Frontend Development |
-|---------------------|--------------------|---------------------|
-| Python | Flutter | HTML5 |
-| Django | Dart | CSS3 |
-| Django REST Framework | Cross-platform Apps | Responsive Design |
-| PostgreSQL | REST API Integration | Flexbox & Grid |
-| Authentication & Authorization | UI/UX Implementation | Animations & Effects |
+| Backend Development | Mobile Development | Frontend Development | AI & Machine Learning |
+|---------------------|--------------------|---------------------|----------------------|
+| Python | Flutter | HTML5 | OpenAI API |
+| Django | Dart | CSS3 | Machine Learning |
+| Django REST Framework | Cross-platform Apps | Responsive Design | Large Language Models |
+| PostgreSQL | REST API Integration | Flexbox & Grid | Prompt Engineering |
+| Authentication & Authorization | UI/UX Implementation | Animations & Effects | AI Integration |
+
+<br/>
+
+## 🤖 AI & ML Skills
+
+- **Large Language Models (LLMs)**: GPT-4, Claude, Gemini
+- **Prompt Engineering & Fine-tuning**
+- **AI API Integration** (OpenAI, Anthropic, Google AI)
+- **Machine Learning** with TensorFlow & Scikit-learn
+- **Natural Language Processing (NLP)**
+- **Building AI-powered Applications**
 
 <br/>
 
@@ -62,6 +78,8 @@
 - Microservices Architecture
 - FastAPI
 - Go Programming Language
+- **Advanced AI/ML Models & Fine-tuning**
+- **LangChain & AI Agent Development**
 
 <br/>
 
